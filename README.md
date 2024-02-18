@@ -56,7 +56,7 @@ Clock Speed	16 MHz
 
 ![image](https://user-images.githubusercontent.com/36288975/163530437-87a0afbd-b3c9-44ad-b907-5de63486fb9d.png)
 
-![image](https://github.com/Prasanna-936/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/blob/main/Screenshot%202024-02-16%20154842.png)
+![image](https://github.com/rohitkumar20700000/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/blob/main/Screenshot%202024-02-16%20154856.png)
 
 
 
