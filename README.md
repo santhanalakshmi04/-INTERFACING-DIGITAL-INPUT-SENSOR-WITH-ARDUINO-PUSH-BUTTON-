@@ -1,8 +1,8 @@
 ## INTERFACING DIGITAL INPUT SENSOR WITH ARDUINO PUSH BUTTON
-## DATE : 16.02.2024
-## NAME : ROHIT KUMAR M																		             
-## ROLLNUMBER :212221220045
-## DEPARTMENT : IT
+## DATE : 18.02.2024
+## NAME : Santhana Lakshmi K																		             
+## ROLLNUMBER :212222240091
+## DEPARTMENT : Artificial Intelligence And Machine Learning
 
 
 ## AIM:
@@ -56,7 +56,8 @@ Clock Speed	16 MHz
 
 ![image](https://user-images.githubusercontent.com/36288975/163530437-87a0afbd-b3c9-44ad-b907-5de63486fb9d.png)
 
-![image](https://github.com/rohitkumar20700000/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/blob/main/EX-01%20Rohit%20kumar%20M(212221220045)_page-0001.jpg)
+![image](https://github.com/rohitkumar20700000/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/119475762/6e573ea0-7e40-4550-afdd-f2bd3031a327)
+
 
 
 
